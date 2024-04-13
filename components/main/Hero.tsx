@@ -15,7 +15,7 @@ const Hero = () => {
           <div className="md:col-span-2 flex justify-center z-[0]">
             <div className="relative flex justify-center items-center " >
               <video autoPlay muted loop className="w-full h-full">
-                <source src="/media/Atom_2.mp4" type="video/mp4" />
+                <source src="/Atom_2.mp4" type="video/mp4" />
               </video>
             </div>
           </div>
