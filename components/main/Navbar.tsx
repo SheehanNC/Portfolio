@@ -6,7 +6,7 @@ export const Navbar = () => {
       <div className="w-full h-full flex items-center justify-between px-10">
         <div className="flex items-center">
           {/* Logo */}
-          <img src="/media/Space_logo.png" style={{ width: '35px', height: 'auto' }} alt="Logo" className="mr-2" />
+          <img src="/Space_logo.png" style={{ width: '35px', height: 'auto' }} alt="Logo" className="mr-2" />
 
           {/* Title */}
           <span className="text-purple-500 text-xl hidden md:block" style={{ fontFamily: "fantasy" }}>Sheehan's Portfolio</span>
